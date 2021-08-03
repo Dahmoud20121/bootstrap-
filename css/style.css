@@ -1,0 +1,26 @@
+.fa-facebook{
+    font-size: 37px;
+    background-color: blue;
+    color: #fff;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 7px;
+    
+}
+.rim {
+    text-align: center;
+    background-color: crimson;
+    padding: 20px;
+    margin-top: 20px;
+    color: #fff;
+    font-family: 'Vibes', cursive;
+    
+}
+.ahmed {
+    text-align: center;
+    background-color: aquamarine;
+    color: bisque;
+    font-size: 40px;
+
+}
+
